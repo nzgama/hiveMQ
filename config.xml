@@ -33,7 +33,7 @@
         <discovery>
             <static>
                 <node>
-                    <host>railway</host>
+                    <host>172.17.1.126</host>
                     <port>7800</port>
                 </node>
             </static>
